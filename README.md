@@ -18,7 +18,7 @@
    <li> :seedling: 2021年2月よりコーディングとプログラミングを勉強し始めました。</li>
    <li> :desktop_computer: 2022年7月よりコーダーとして株式会社B.B Enterpriseで活動させていただいています。</li>
    <li> :brain: 現在はJavaScriptの知識をさらに高めるため、独学中です！！</li>
-   <li> :gem: 写真を撮ることと焼き肉が大好きです。</li>
+   <li> :sparkling_heart: 写真を撮ることと焼き肉が大好きです。</li>
    
 
 <br />
