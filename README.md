@@ -4,25 +4,29 @@
 <br />
 <div id="greeting" align="center">
   <h1>
-    Hi I'm Ashley
+    Hello I'm Ashley
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
 <br />
 <div id="about">
-    I'm <strong>Ashley</strong>, a Web Developer based in Tokyo, Japan.
+    アシュリーと申します。東京を拠点とするコーダーです。
 </div>
 <br />
 <div>
-   <li> :seedling: Started learning web development on February 2021</li>
-   <li> :desktop_computer: I'm currently working at B.B Enterprise as a junior Web Developer</li>
-   <li> :brain: I'm also currently working on my JavaScript skills</li>
-   <li> :gem: Fun facts: I love taking pictures and yakiniku</li>
-   <li> :city_sunrise: I'm from Paris, France ! BONJOUR !</li>
+  <li> :city_sunrise: フランスのパリ出身です! BONJOUR !</li>
+   <li> :seedling: 2021年2月よりコーディングとプログラミングを勉強し始めました。</li>
+   <li> :desktop_computer: 2022年7月よりコーダーとして株式会社B.B Enterpriseで活動させていただいています。</li>
+   <li> :brain: 現在はJavaScriptの知識をさらに高めるため、独学中です！！</li>
+   <li> :gem: 写真を撮ることと焼き肉が大好きです。</li>
+   
 
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-bbe&layout=compact&theme=onedark)](https://github.com/ashley-bbe/github-readme-stats)
+
+<br/>
 
 <div id="tools" align="center">
   <h1>
