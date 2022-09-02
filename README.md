@@ -16,7 +16,7 @@
 <div>
    <li> :seedling: Started learning web development on February 2021</li>
    <li> :desktop_computer: I'm currently working at B.B Enterprise as a junior Web Developer</li>
-   <li> :brain: I'm currently working on brushing up my JavaScript skills</li>
+   <li> :brain: I'm also currently working on my JavaScript skills</li>
    <li> :gem: Fun facts: I love taking pictures and yakiniku</li>
    <li> :city_sunrise: I'm from Paris, France ! BONJOUR !</li>
 
