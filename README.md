@@ -18,7 +18,7 @@
    <li> :desktop_computer: I'm <strong>working</strong> at B.B Enterprise as a <strong>HTML Coder</strong></li>
    <li> :brain: I'm currently working on brushing up my JavaScript skills</li>
    <li> :gem: Fun facts: I love taking pictures and yakiniku</li>
-   <li> :city_sunrise: I'm from Paris, France.</li>
+   <li> :city_sunrise: I'm from Paris, France ! BONJOUR !</li>
 
 <br />
 <br />
