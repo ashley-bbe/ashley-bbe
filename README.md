@@ -10,14 +10,14 @@
 </div>
 <br />
 <div id="about">
-    アシュリーと申します。東京を拠点とするコーダーです。
+    R.A.と申します。東京を拠点とするフロントエンジニアです。
 </div>
 <br />
 <div>
   <li> :city_sunrise: フランスのパリ出身です! BONJOUR !</li>
-   <li> :seedling: 2021年2月よりコーディングとプログラミングを勉強し始めました。</li>
-   <li> :desktop_computer: 2022年7月よりコーダーとして<a href="https://bbenterprise.jp/" target="_blank">株式会社B.B Enterprise</a>で活動させていただいています。</li>
-   <li> :brain: 現在はJavaScriptの知識をさらに高めるため、独学中です！！</li>
+   <li> :seedling: 2021年2月より本格的にコーディングとプログラミングをスタートしました。</li>
+   <li> :desktop_computer: 2022年7月よりフロントエンジニアとして活動させていただいています。</li>
+   <li> :brain: 現在はエンジニアとしてJavaScriptの知識をさらに高めるため、学習中です！！</li>
    <li> :sparkling_heart: 写真を撮ることと焼き肉が大好きです。</li>
    
 
