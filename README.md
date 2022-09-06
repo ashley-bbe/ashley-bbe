@@ -16,6 +16,7 @@
 <div>
   <li> :city_sunrise: フランスのパリ出身です! BONJOUR !</li>
    <li> :seedling: 2021年2月より本格的にコーディングとプログラミングをスタートしました。</li>
+   <!-- <li> :desktop_computer: 2022年7月よりフロントエンジニアとして活動させていただいています。</li> -->
    <li> :brain: 現在はエンジニアとしてJavaScriptの知識をさらに高めるため、学習中です！！</li>
    <li> :sparkling_heart: 写真を撮ることと焼き肉が大好きです。</li>
    
@@ -39,6 +40,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-79629e?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-434441?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Python-fcde71?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white" />
   </div>
 
   <div>
