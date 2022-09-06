@@ -16,7 +16,6 @@
 <div>
   <li> :city_sunrise: フランスのパリ出身です! BONJOUR !</li>
    <li> :seedling: 2021年2月より本格的にコーディングとプログラミングをスタートしました。</li>
-   <li> :desktop_computer: 2022年7月よりフロントエンジニアとして活動させていただいています。</li>
    <li> :brain: 現在はエンジニアとしてJavaScriptの知識をさらに高めるため、学習中です！！</li>
    <li> :sparkling_heart: 写真を撮ることと焼き肉が大好きです。</li>
    
