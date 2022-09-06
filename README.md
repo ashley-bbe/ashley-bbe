@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/VSCode-2694e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Heroku-79629e?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/AdobeXD-6c1444?style=for-the-badge&logo=AdobeXD&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dreamweaver-6c1444?style=for-the-badge&logo=AdobeDreamweaver&logoColor=white" />
     <img src="https://img.shields.io/badge/Slack-666?style=for-the-badge&logo=Slack&logoColor=white" />
   </div>
 
